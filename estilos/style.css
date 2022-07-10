@@ -1,19 +1,46 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+    padding: 2px;
 
  }
 
  body{
-     background-color: blueviolet;
+     background-color: rgb(97, 3, 185);
 
   }
+
+  h1{
+      text-align: center;
+      font-size: 20px;
+      padding: 8px;
+   }
 
   main { 
       background-color: white;
       width: 500px;
+      height: 600px;
       margin: auto;
-      padding: 10px;
+      padding: 13px;
       box-shadow: 3px 3px 5px black;
 
+  } 
+
+  .titulo {
+      height: 85px;
+      padding-left: 100px;
   }
+
+  .paraa { 
+      color: rgb(206, 7, 7);
+  }
+
+  .ladoa {
+      float: right;
+      height: 100px;
+  }
+
+  .ladob {
+    float: right;
+    height: 90px;
+}
