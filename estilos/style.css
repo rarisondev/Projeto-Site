@@ -18,8 +18,8 @@
 
   main { 
       background-color: white;
-      width: 500px;
-      height: 600px;
+      width: 700px;
+      height: 550px;
       margin: auto;
       padding: 13px;
       box-shadow: 3px 3px 5px black;
@@ -28,7 +28,7 @@
 
   .titulo {
       height: 85px;
-      padding-left: 100px;
+      padding-left: 190px;
   }
 
   .paraa { 
