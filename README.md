@@ -6,6 +6,7 @@ Site criado durante o curso de Git e GitHub.
 Html5 e CSS3 components
 
 ## Let's go 👨‍💻
+![Projeto-Site](https://user-images.githubusercontent.com/83453859/180615796-cdfed7fa-4bd3-46a3-bae2-c4efeffa4f3d.JPG)
 Você pode ver o projeto através do link abaixo 👇 <br><br>
 [Clique aqui](https://rarisondev.github.io/Projeto-Site)
 
