@@ -1,2 +1,6 @@
-# Projeto-Site
- Projeto de um site criado durante o curso de git e github
+# **Site criado durante o curso de Git e GitHub.**
+## Tech
+
+###### [Rarison Lucas](https://exemplo.com/) 🚀
+Elaborado por Rarison Lucas <br>
+Entre em contato! 👋
